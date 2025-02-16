@@ -8,15 +8,20 @@ I enjoy working in collaborative environments and continuously learning new test
 🔧 Technologies & Tools
 
 Testing Tools: Selenium, JUnit, TestNG, Postman
+
 Languages: Java, 
+
 Version Control: Git, GitHub
+
 CI/CD: Jenkins, GitHub Actions
+
 Project Management: JIRA, Trello, Agile methodologies
 
 
 📫 How to reach me
 
 Email: ekhlaskhalel2@gmail.com
+
 LinkedIn: [Ekhlas Khalel](https://www.linkedin.com/in/ekhlas-khalel?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 🌱 Currently Learning
@@ -24,6 +29,7 @@ LinkedIn: [Ekhlas Khalel](https://www.linkedin.com/in/ekhlas-khalel?utm_source=s
 I am currently enhancing my skills in automated testing and exploring new tools and frameworks to improve test coverage and efficiency.
 
 💬 Ask me about
+
 Functional and non-functional testing
 Writing effective test cases
 Automated testing tools and frameworks
