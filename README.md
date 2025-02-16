@@ -32,8 +32,11 @@ I am currently enhancing my skills in automated testing and exploring new tools 
 💬 Ask me about
 
 Functional and non-functional testing
+
 Writing effective test cases
+
 Automated testing tools and frameworks
+
 Bug tracking and reporting
 
 ⚡ Fun fact
