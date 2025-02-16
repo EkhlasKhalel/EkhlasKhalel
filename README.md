@@ -10,8 +10,7 @@ Languages: Java,
 Version Control: Git, GitHub
 CI/CD: Jenkins, GitHub Actions
 Project Management: JIRA, Trello, Agile methodologies
-📈 GitHub Stats
-EkhlasKhalel's GitHub Stats
+
 
 📫 How to reach me
 Email: ekhlaskhalel2@gmail.com
