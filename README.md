@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">📚🌱 Currently Learning : I am currently enhancing my skills in automated testing and exploring new tools and frameworks to improve test coverage and efficiency, expanding my knowledge in Performance Testing<br><br>🎯 Goals : My goal is to help deliver reliable and user-friendly applications by identifying and addressing defects early in the development process<br><br>🎲 Fun fact : When I'm not testing software, you can find me exploring new hiking trails , or experimenting with new recipes in the kitchen. Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!</h4>
+<h3 align="left">📚🌱 Currently Learning : I am currently enhancing my skills in automated testing and exploring new tools and frameworks to improve test coverage and efficiency, expanding my knowledge in Performance Testing<br><br>🎯 Goals : My goal is to help deliver reliable and user-friendly applications by identifying and addressing defects early in the development process<br><br>🎲 Fun fact : When I'm not testing software, you can find me exploring new hiking trails , or experimenting with new recipes in the kitchen. Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!</h3>
 
 ###
 
@@ -64,16 +64,16 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ekhlas-khalel/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="01094878967" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="40" alt="whatsapp logo"  />
   </a>
   <a href="ekhlaskhalel2@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
   </a>
   <a href="01094878967" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="01094878967" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="40" alt="telegram logo"  />
   </a>
 </div>
 
