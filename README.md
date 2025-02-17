@@ -18,13 +18,7 @@
 
 ###
 
-<h2 align="left">🎯Frameworks</h2>
-
-###
-
-<br clear="both">
-
-<h4 align="left">JUnit, TestNG</h4>
+<h2 align="left">🎯Frameworks : JUnit, TestNG</h2>
 
 ###
 
