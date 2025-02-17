@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">I am a junior software tester with a keen eye for detail and a passion for ensuring software quality. I’ve built solid experience in both manual and automation testing, always striving to enhance my skills and stay ahead in the field.<br><br>I have hands-on experience with manual testing, having worked on multiple projects where I utilized Google Sheets and Jira for test case management and bug tracking. My API testing expertise includes projects using Postman where I implemented various validation scenarios. On the automation side, I’ve completed two Selenium projects, refining my skills in web automation and scripting</h3>
+<h4 align="left">I am a junior software tester with a keen eye for detail and a passion for ensuring software quality. I’ve built solid experience in both manual and automation testing, always striving to enhance my skills and stay ahead in the field.<br><br>I have hands-on experience with manual testing, having worked on multiple projects where I utilized Google Sheets and Jira for test case management and bug tracking. My API testing expertise includes projects using Postman where I implemented various validation scenarios. On the automation side, I’ve completed two Selenium projects, refining my skills in web automation and scripting</h4>
 
 ###
 
-<h3 align="left">📚🌱 Currently Learning : I am currently enhancing my skills in automated testing and exploring new tools and frameworks to improve test coverage and efficiency, expanding my knowledge in Performance Testing<br><br>🎯 Goals : My goal is to help deliver reliable and user-friendly applications by identifying and addressing defects early in the development process<br><br>🎲 Fun fact : When I'm not testing software, you can find me exploring new hiking trails , or experimenting with new recipes in the kitchen. Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!</h3>
+<h4 align="left">📚🌱 Currently Learning : I am currently enhancing my skills in automated testing and exploring new tools and frameworks to improve test coverage and efficiency, expanding my knowledge in Performance Testing<br><br>🎯 Goals : My goal is to help deliver reliable and user-friendly applications by identifying and addressing defects early in the development process<br><br>🎲 Fun fact : When I'm not testing software, you can find me exploring new hiking trails , or experimenting with new recipes in the kitchen. Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!</h4>
 
 ###
 
